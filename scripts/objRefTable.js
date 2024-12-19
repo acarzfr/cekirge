@@ -87,6 +87,7 @@ self.C3_JsPropNameTable = [
 	{hamlesayisi: 0},
 	{konumlar: 0},
 	{fon: 0},
+	{tiklandi: 0},
 	{y: 0},
 	{i: 0},
 	{j: 0}
